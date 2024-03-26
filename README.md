@@ -1,1 +1,1 @@
-# TEST
+# Migthy Ducks Hockey League
